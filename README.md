@@ -1,6 +1,6 @@
 # Orientação a Objetos
 
-Este repositório contém a atividade prática do Curso "Orientação a Objetos", que faz parte do Basecamp de Javascript que minstrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Este repositório contém a atividade prática do Curso "Orientação a Objetos", que faz parte do Basecamp de Javascript que participei pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade: Conta Bancária
 
@@ -15,3 +15,6 @@ Nesta atividade, vamos testar os conceitos de Orientação a Objetos simulando a
 7. Crie uma classe-filha chamada `ContaPoupanca` que herda todos os parâmetros de `ContaBancaria`;
 8. Crie uma classe-filha chamada `ContaUniversitaria` que herda todos os parâmetros de `ContaBancaria`;
 9. Faça com que o método `saque` de `ContaUniversitaria` apenas seja capaz de sacar valores **menores que 500 reais**.
+
+Implementações
+Mensagem de retorno ao usuário referente ao saldo ao fim de cada requisição e adicionei uma consulta de saldo!
